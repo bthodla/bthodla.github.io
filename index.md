@@ -1,2 +1,2 @@
 # Bhasker Banter
-[Happy Places] (happy-places.md)
+[Happy Places](happy-places.md)
